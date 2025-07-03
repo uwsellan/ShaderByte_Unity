@@ -1,0 +1,30 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenuManager">
+			<method name="ChangeSFXVol"/>
+			<method name="ChangeVolume"/>
+			<method name="HowToPlay"/>
+			<method name="Play"/>
+			<method name="Quit"/>
+		</type>
+		<type fullname="Shop">
+			<method name="DoubleJump"/>
+			<method name="ExtraLife"/>
+			<method name="Heart10"/>
+			<method name="Heart4"/>
+			<method name="Heart5"/>
+			<method name="Heart6"/>
+			<method name="Heart7"/>
+			<method name="Heart8"/>
+			<method name="Heart9"/>
+			<method name="WeaponUpgrade1"/>
+			<method name="WeaponUpgrade2"/>
+		</type>
+		<type fullname="UIManager">
+			<method name="PauseGame"/>
+			<method name="Quit"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+		</type>
+	</assembly>
+</linker>

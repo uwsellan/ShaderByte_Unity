@@ -1,0 +1,4 @@
+repository "GUGame/GUGame@5773826486621@cloud"
+  path "/"
+    br "/main"
+    co "/main"
